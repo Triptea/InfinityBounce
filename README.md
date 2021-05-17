@@ -1,2 +1,2 @@
 # 3DFlyingBall
-Unity project on animated flying ball with controllable speed and height
+Unity project on animation of multiple flying balls with speed controls
